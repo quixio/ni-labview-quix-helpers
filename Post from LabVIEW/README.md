@@ -16,7 +16,7 @@ Ensure that you have the correct version, otherwise this is unlikely to work.
 
 
 
-For an overview of how to use this and how to setup Quix to work with these files watch the video here:
+For an overview of how to use this and how to setup Quix to work with these files watch the video [here](https://youtu.be/cl1dPDqQNoI).
 
 
 
