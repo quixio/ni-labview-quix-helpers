@@ -7,6 +7,7 @@ These files are intended to help people post data to a Quix cloud hosted HTTP AP
 This guide demonstrates how to stream data from a local LabVIEW environment into a Quix workspace using Python as a bridge. This setup allows you to utilize LabVIEW for data acquisition and control while leveraging Quix for real-time cloud processing and stream processing.
 
 You can also follow the [tutorial video](https://youtu.be/cl1dPDqQNoI) which covers the same steps.
+[![Youtube Thumbnail](labview.png)](https://youtu.be/cl1dPDqQNoI)
 
 ### **Prerequisites**
 
